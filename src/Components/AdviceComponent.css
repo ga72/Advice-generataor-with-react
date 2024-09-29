@@ -1,0 +1,22 @@
+.advice {
+    background-color: gray;
+    text-align: center;
+    margin: 50px;
+    width: 600px;
+    height: 200px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+
+
+.icon {
+    background-color: hsl(150, 100%, 66%);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
